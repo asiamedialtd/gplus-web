@@ -1,5 +1,5 @@
 # GO+ VPN Landing page
-- https://gopluscorp.github.io/goplus-web/
-- https://gopluscorp.github.io/goplus-web/setup
-- https://gopluscorp.github.io/goplus-web/tips
-- https://gopluscorp.github.io/goplus-web/policy
+- https://asiamedialtd.github.io/gplus-web/
+- https://asiamedialtd.github.io/gplus-web/setup
+- https://asiamedialtd.github.io/gplus-web/tips
+- https://asiamedialtd.github.io/gplus-web/policy
