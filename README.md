@@ -1,4 +1,4 @@
-# G+ VPN Landing page
+# GPLUS VPN Landing page
 
 - https://gplusvpn.com/
 - https://gplusvpn.com/setup
