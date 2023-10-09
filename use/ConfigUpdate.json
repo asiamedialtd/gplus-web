@@ -1,107 +1,119 @@
 {
    "files": [
       {
-         "name": "01.KIRIN-01-FREE:-TH-TxDNoPro",
-         "url": "Y/pUY6iHHGciY9HQ76NcnFlvHM6ezHdyN4IoNPDru61qCG5+y/yWLYQx12OZkk74QpWGeZZ1m5WZ4TOf"
-      },
-      {
          "name": "02.KIRIN-02-FREE:-TH-TxDNoPro",
-         "url": "GO4IPSxWEPpXDjNZ+XoPRpA2M+O8+xAx2yb18VEV9V4mLuJlVN5DC5fhVZ6ZPI8eRfgqKftz1RHdfqaN"
-      },
-      {
-         "name": "03.KIRIN-03-FREE:-TH-TxDNoPro",
-         "url": "kziQJJzO9inOsJiSdBS6GpkC72XvnD5qwJ+x86gbp2pGX+gsPAeQ/k4u2TLyC073jbexAtSx+4+WQ+bg"
-      },
+         "url": "fj/LS7gc8M290uhPycfA7UQjIL30SQ6nSJG6GEA3Nl0ehUsHE4et5QTQih9KnLFxBozCrnVDUJOVHV/T+r5xihQ+BZ3UogT8"
+      },  
       {
          "name": "04.GARUDA-01-VIP:-TH-TxDNoPro",
-         "url": "Bj9GD1vGVITbIakWScwTLpfd06wyax/GNIkbaSCugcN3uY+cASbmJN3LDYjpvpLrK/osAQpRQtYaujj8EIstRw=="
-      },
+         "url": "zfuuyS9hLx4Vq6i3/kx4xxqen+JsPhkI16G4xWflNJ6/DM6uE3YG4g6Ha96SY6a7nlFmVMFGpQ4epNbhCz8a0HW6SVQ="
+      },     
       {
          "name": "05.GARUDA-02-VIP:-TH-TxDNoPro",
-         "url": "icHzbwPU/AeEvrtAZksbJEP9iNPgB7683V/SyqREONeOrEiqpqHcVXYmE6ZO+8pqmis93GzezLR/G85S5TzCOA=="
-      },
+         "url": "w1fvXJTl7EyVu99b5+OM5kCgmE+ZIoKkSw0mZB+VJp1uEuxEa+GnCXOtmIFudSYXCwdiOGnYEts7WBdfNwPZuADpVRY="
+      },     
       {
          "name": "06.GARUDA-03-VIP:-TH-TxDNoPro",
-         "url": "jjEcD/xIC2tXj45pGoh3BzXKsYvKc5/DzJhfZojpoDPLS2Uj+hX1Q2cxSVq3RHOSneVxkproA9VP4zomv9Hu3g=="
-      },
+         "url": "MJaxL42O2oX0G/G/Bt04CmghHdJFn1eK8A8Zy/E7GsCB1jhpQoOA81vhBW/RNNnMBFR9nr9+7R9Dn5s1olwwcmQ3NQs="
+      },   
       {
          "name": "07.GARUDA-04-VIP:-TH-TxDNoPro",
-         "url": "VbfgGHzXKVvJFjdkh1y+5hfcWpxJ6xlT+jqHgSspytWnzszA+LfTb559rfIRq6U+SnepK7AMY4F3TjefRZFZ2Q=="
-      },
+         "url": "ZfaCbMpRMlY70j/qfTxOITHGk8IKeWbDRuIPWknPthuv9sbehqMGA6+qJv+M7ueOTzgF1+W39IkL+AM6aWYa2wtVuMw="
+      },    
       {
          "name": "08.GARUDA-05-VIP:-TH-TxDNoPro",
-         "url": "HeGTvqAVs1o5UOJKND3kRH7YdKCIrgewKMc/gKI9h77KIZiDBgTdt0Egut0pBcVcX61QV+lgCA1t05OfGwcBOg=="
-      },
+         "url": "DtmO9Eivryws2zKWM11pyp2HXelhZ8ZqdyiMSdaVPTe7XsTmBTubiEWjEepnqpwMnft06KyQj3oy3sQy0kYeHKh7oJw="
+      },    
       {
          "name": "09.GARUDA-06-VIP:-TH-TxDNoPro",
-         "url": "3KLzEreMuG6RvU22bUKZ7T5yxlqqGKbiMS8EP7c1yT4Pso8WAZJgIzxKXVRVHNIggPi2RGxlvMOAODny3oXhTA=="
-      },
+         "url": "2xBN9bc4EyGerBTAwMXz+t4H69UwqddAwqndsx3ZJCc/BkW+zWb3Dg9HpkSOIlBloG9RqWfiSHzOiXqDO5/F4ckqaAY="
+      },    
       {
          "name": "10.GARUDA-07-VIP:-TH-TxDNoPro",
-         "url": "c3EVJpOIZunAdQTIkJDM8RtkeDqZZSK2F5CxddbQR2ZxrgVKppbRBuDQz6+XLQHfrxSGst0qR3HPIqh3MvfDfA=="
-      },
+         "url": "AaVXiAA/pB7kwlW0ZS5n42wBTB3WC5sjiFBu2AeRgsxXPdilFjkULeQP05s0Ryin2jjPhSR5ldeZ1f0UvESjJ4g3b0Q="
+      },    
       {
          "name": "11.GARUDA-08-VIP:-TH-TxDNoPro",
-         "url": "NXI2KvUoEVxnQHyVGRLLAMXE+FUizozi92Kd++xJ31o44H3hL+QXKQ1g4AT4M6yQWlk0r0gjOexT9LcK6dK2TA=="
-      },
+         "url": "dL+m7U4YCz1H5Mu3JrEvGVdVbjeGQubIovimmqDWxofL4AOwQs7f/YeHiqTxk+gw7jc0+Hw3qfMM+P1WUrkotTGfdOE="
+      },     
       {
          "name": "12.GARUDA-09-VIP:-TH-TxDNoPro",
-         "url": "LDO1phDe5iyjsiUvrXPeJg3sukt3ayefjhl6g92ipEiS36n68D5Vlj2J26CWOqdBZsWp87Y99IXOUJkjsbxxcQ=="
-      },
+         "url": "W7DhA+VhJf/Q8Nu7k94xnsqoYH39aa9X2bHzqiyHLl5j/BlH5bdXTMh2ZVCXduDc7GnGgD+sBxMl7mF+KvgOyg+Kfdo="
+      },    
       {
-        "name": "13.GARUDA-10-VIP:-TH-TxDNoPro",
-        "url": "FjmDrZnrhnmMjTfOTieIgXysZZONffSQh7VNT/c57ejXh4wUsmJQ0QyEb5/EpyMxgVkUWrH34y3nPkp0IuEQhA=="
-      },
+         "name": "13.GARUDA-10-VIP:-TH-TxDNoPro",
+         "url": "1PeWDL1H44cNUnR0UlsmpE5TIY+LIirW+M1LeG0qZu7+UEdtQynU75BCm3WRSZWOWL3FgTMWbzaHa0lt525hCA80Nw+xcafs"
+      },     
       {
-        "name": "14.GARUDA-11-VIP:-TH-TxDNoPro",
-        "url": "yhCuGzY4hJFdNsa/OO0//O4/0lzaSxGEUD+tvsTPV5SqdhmfCI2O3lFk6dk+5RnX0nmZ1KBy7Do+giHVf+cq3Q=="
-      },
+         "name": "14.GARUDA-11-VIP:-TH-TxDNoPro",
+         "url": "2w3S0QqXnvg3gLYoFGh5gXSU9TBwnsA+tO0qOyZ3d9qUAkLDpJIdwJbLSXMqCpcO2zcz2u7XAz9pzOHLtSEpUAtJy0aNCjHB"
+      },    
       {
-        "name": "15.GARUDA-12-VIP:-TH-TxDNoPro",
-        "url": "0ZGXoRv7AeVMbaIb4fsqxO3huyTwRWWQHf4ddxTdGLvdMa/HuEsbc/l4S43UlB9rNf6oWqtmTB4dDrFN5GJDMA=="
-      },
+         "name": "15.GARUDA-12-VIP:-TH-TxDNoPro",
+         "url": "iArM58lIHCqDFBow76v1nsA1fZ1xcdSR365Kl2/qwv0tql/83joYxQ+vEd/qKYVN3HXW83JKC4Cwx0mI7Qfc6u9KMQ5jw+1X"
+      },   
       {
-        "name": "16.GARUDA-13-VIP:-TH-TxDNoPro",
-        "url": "kceIpwxdkhMgDU8TrFOVmDDBJ8KLosZ+42hcSbcHX/Gmd+z1EjEr5JBzo1mQ49OROW81GvD5Bkr8Yrg9J8okBQ=="
-      },
+         "name": "16.GARUDA-13-VIP:-TH-TxDNoPro",
+         "url": "TPmp0yInzHJrMxwCyHbCanQne70XtAsZxA44F2lw2JX+HQz32Ru5RRNQQekufutJXrEUy0k5TaCzRXT2BYO/5vOYQGl0iaMf"
+      },    
       {
          "name": "17.SHINRYU-01-GAME:-TH-TxDNoPro",
-         "url": "Jkq8AQ4LEG+6MbdwXlwb4D6hw2WgyuVaQb2pzaHCD15GUb5ZM/w2q38/jwQcaQh6KLyHAhcaBHmNaKSNLLUHAw=="
-      },
+         "url": "ExUkPErPE3b+88/eAzQJUOEBlhQz4dnE7EG041af5YOxtNQ5i29ZB28bXI8wvVo0p5pLPFwzXPNcEYDI74iIwIGlDR6+tTPJ"
+      },     
       {
          "name": "18.GARUDA-X-01-VIP:-TH-TxDNoPro",
-         "url": "ebTNU7FZ9E53qh8diBqMB2tQ8Ng1QqMMPdcDV+JhnIS211taTH0a5648ewBqtFDNVsewC7gFXNta0cuM31iTWg=="
-      },
+         "url": "agSQl8ibpkByGnD4hrif3R5bEk2dfAOLU9bjkB66DerLDmAPpOQEJJED2oYmEM/smpyPBtuFfsZbI1PgkKtR1GPEfjK9eQvg"
+      },    
       {
          "name": "19.GARUDA-14-VIP:-TH-TxDNoPro",
-         "url": "4rN2yuQOjXJ7glFl0+S5A1PfZL6NdIZmiLYzJi9YGOlW/8IaRTEwtbSvvbeKyesM5qjRhFfx3NERLiO0L8u+5w=="
-      },
+         "url": "lqa6WrWExh0p2By5b5VRoUpJPG7Clt0N2dOWMKT6jlFztD/ac3ytskRYNhpaXLGypINCCH4lxKP6kFvj6ebfwn+9dM2uuq6X"
+      },    
       {
          "name": "20.GARUDA-15-VIP:-TH-TxDNoPro",
-         "url": "rB4Wn8q2f2LT6RAl2HdzThjQAkEIWsgykd2JUypI8qh1EaiKV07p79kFnL8xPdn5O/eET/LeT4xvkQBYjxY7jA=="
-      },
+         "url": "OJmeg0HOayzvUCm4NBz1sYh9LbkBFlrc+NxHzapkSt+IsKhHFQrKCh19y81cyB5URN5WMkz8Lz6PSv5G2KVbPEk7o48njWuf"
+      },  
       {
          "name": "21.GARUDA-16-VIP:-TH-TxDNoPro",
-         "url": "0lEJcXtAny/jw8biXUXZXzLSZiUMUJo6JbBil2keEInE7TtTy5TPajSLtFXcxNV83xdir7jokCLoUHsaW9nQWA=="
-      },
+         "url": "/Tfoe89n8OTboppEorlTQ3iBvnf0wIIus+Hwm3oZEzEzktMxsgR437N1gQywCwIQsVXkWRhUSnT+t+DsZo0jrvv1Mj8s+tsA"
+      },     
       {
          "name": "22.GARUDA-17-VIP:-TH-TxDNoPro",
-         "url": "6GgX4vxJlYCYVRbH9CsURkw2e1dZG2wJ+u9F4HKuRuWMFuH05L/2+EZl0b8M/6PKDmVc8vifnQcfvLqMpqhI5w=="
-      },
+         "url": "Aw+X5yF1ud07CZBK564q7jUM+girmpxPzNsWIU9WlHLl3dNxWEnZRn/EEShjy9AH0bckse5Q8eSxcywpYEwPWurs8CkV0lq1"
+      },    
       {
          "name": "23.GARUDA-18-VIP:-TH-TxDNoPro",
-         "url": "Gdxkc2KHlHqiqtFOlDsRx7qRAPyh/LkV0yAXOalLzjpwqWFQ2ChhXumf7w1YltSMGaYTnN311iCzXtWJeIqm9A=="
+         "url": "0HivYlGb3RNKUn1luuXSwGhj0rMB9xv7NVtQH8iQvPKWh6EFIKA2GfTDOhCV6z/z6YTr6DqiD5StYN7XHbFBxCRDxFzXFjEw"
       },
       {
          "name": "24.GARUDA-19-VIP:-TH-TxDNoPro",
-         "url": "i7xQJ+MTVKjRyHeHBFGclAZbHlZSeEW1n17Isdf2woQO7kOOZldNULOy/rLB09x4Pp9iuiQulHTSZuApd+28GA=="
+         "url": "AGapOcMHwLS9AbEAZ0OcDZ2yBN4cikWK1pc9TsW6c9h82745wkW3Tv6D2lOu0o2Op3jT01CWPlDujttBOrhzC2yt35ARkaQ0"
       },
       {
          "name": "25.GARUDA-20-VIP:-TH-TxDNoPro",
-         "url": "MvavdvjFpofzRQFeQQ8NTk4HsWTZ7c2+/acGG1nrAnOMfCQBdx+SzJKtZnk2UwJbzdNSEsOJkplq3F7gYEeYFw=="
+         "url": "LZGQU82SqEvfZojpUsnD8+Eh7ERa5IbbjOGHVubCliuJ/4sDIMrbe1jv893BQ5xbGWwU0rEvPGTwDBXsG6udAGlM5KbRtWvN"
+      },
+      {
+         "name": "26.GARUDA-21-VIP:-TH-TxDNoPro",
+         "url": "OrRvLTfr7wjM8foojIssUzmtq6VVEdBREIFysMqhDLc8xxoSQRUBwmTk0I6w3sMw8t1DZWTVZ4K5TvoKGtZZQRuksbyT4fen"
+      },
+      {
+         "name": "27.GARUDA-22-VIP:-TH-TxDNoPro",
+         "url": "h9IvKucN+5L2E8OAsKve8A8RHfJD78IAw03cRG0V+E0T/4MMkJ73lwM9KOJQ9WylJ/sFHTx6i0N5dvaceSeM2SCGG25hiZai"
+      },
+      {
+         "name": "28.GARUDA-23-VIP:-TH-TxDNoPro",
+         "url": "BEp+qaO6h32keDjLm5aLshoxwnUkqhM2Ba2/aNySx7NV+PDvfCKe30Jtdz/S6+lMY2Xg6dj01W4oNHNgwrVWKhjJNtnpqCQl"
+      },
+      {
+         "name": "29.GARUDA-24-VIP:-TH-TxDNoPro",
+         "url": "zQUsY40U/Xn/alQYRdl82EHxJklOM1fwlUX8WiJMhjbASEDz/QpnTqz94I/0vEUlPEw74uJwLuPJRaNIU9Kc9/l8FLo2fU4t"
+      },
+      {
+         "name": "30.GARUDA-25-VIP:-TH-TxDNoPro",
+         "url": "l1meJnANwaXixvwXscVnO2/tIN1HIvXoP/7GZ+2GWkhaExTJjTGLHTGCspNVef00nONqhgJjSrtMu3WBrEtor54Uz8n7tH2w"
       }
    ],
-   "message": "🚀 อัปเดตเซิร์ฟเวอร์ เวอร์ชั่น - 59 \n📆 อัปเดตล่าสุด - กันยายน 22 2023\n \n📌มีอะไรใหม่ 🔥 \n• ปรับเพิ่ม GARUDA-16-20-VIP \n\n📌VIP บัญชีผู้ใช้ \n• ระยะเวลา - ไม่จำกัด💯 \n• การถ่ายโอนข้อมูล - ไม่จำกัด✅ \n• 1 อุปกรณ์ - 1 บัญชีผู้ใช้🔒 \n \nขอบคุณสำหรับการสนับสนุน❤️ \n",
+   "message": "",
    "title": "คุณต้องการที่จะปรับปรุง?",
-   "version": 59
+   "version": 60
 }
